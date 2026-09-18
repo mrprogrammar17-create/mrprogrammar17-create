@@ -245,3 +245,18 @@ Have an idea? Let's build it.
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+🎬 AI Video Creation — Sample
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1Sgf8zzB6sWUNT3W31ETArwNrebqWTMdU/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/▶️%20Watch%20AI%20Video%20Sample-7c3aed?style=for-the-badge&logo=google-drive&logoColor=white" alt="AI Video Sample"/>
+</a>
+
+<br/><br/>
+
+<sub>AI-generated video sample showcasing my AI video creation, editing, storytelling, and visual content skills.</sub>
+
+</div>
+
