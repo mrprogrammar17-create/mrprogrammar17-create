@@ -1,177 +1,140 @@
 <div align="center">
 
-Hi 👋, I'm Kamran Arshad
+<img src="./github-banner.svg" alt="Kamran Arshad - Frontend Developer and AI Creator" width="100%"/>
 
-🚀 Frontend Developer | 🤖 AI Content Creator | 🎬 AI Video & Ad Creator
+<br/>
 
-<p>
-  <a href="https://codealpha-my-own-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kamran-khan-764421312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kamranarshad0328@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://codealpha-my-own-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-0ea5e9?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kamran-khan-764421312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:kamranarshad0328@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=mrprogrammar17-create&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mrprogrammar17-create&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-👨‍💻 About Me
+🧑‍💻 About Me
 
-I'm Kamran Arshad, a developer and AI content creator from Pakistan who enjoys building modern web experiences and creating AI-powered visual content.
+Hi! I'm Kamran Arshad, a developer and AI content creator from Pakistan. I build modern, responsive web experiences and create AI-powered visual content.
 
-💻 Frontend Developer focused on modern, responsive websites
+💻 Frontend Developer — HTML, CSS, JavaScript, React, TypeScript & Tailwind CSS
 
-🤖 AI Content Creator specializing in AI prompts and AI-generated content
+🤖 AI Content Creator — AI prompts, images, videos and creative workflows
 
-🎬 AI Video Editor & AI Ad Creator
+🎬 AI Video Editor & Ad Creator — product ads, story videos and short-form content
 
-🎨 Create product advertisements and story-based AI videos
+🧠 Strong at writing, understanding and explaining AI prompts
 
-🧠 Strong at writing, understanding, and explaining AI prompts
-
-🌐 Build and deploy frontend projects
+🌐 Build, optimize and deploy web projects
 
 📚 Create programming and technology content
 
-🚀 Always learning new AI and web technologies
+🚀 Always exploring new AI and web technologies
 
-I love turning ideas into functional websites and engaging AI-powered content.
+💡 Building websites. Creating with AI. Turning ideas into reality.
 
-🛠️ Tech Stack & Tools
+🛠️ Tech Stack
 
-🌐 Frontend Development
+🌐 Frontend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" alt="Frontend technologies"/>
 </p>
 
 🗄️ Backend & Database
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" alt="Backend and database technologies"/>
 </p>
 
-🔧 Tools & Platforms
+🔧 Tools
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" alt="Adobe Illustrator"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development tools"/>
 </p>
 
-🤖 AI & Content Creation
+🤖 AI & Creative Tools
 
-🎥 Google Flow
+<p>
+<img src="https://img.shields.io/badge/Google%20Flow-111827?style=for-the-badge&logo=google&logoColor=white" alt="Google Flow"/>
+<img src="https://img.shields.io/badge/CapCut-111827?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+<img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI%20Video%20Creation-0891b2?style=for-the-badge&logo=youtube&logoColor=white" alt="AI Video Creation"/>
+</p>
 
-✂️ CapCut
-
-🧠 AI Prompt Engineering
-
-🎬 AI Video Generation
-
-📢 AI Product Advertisement Creation
-
-📖 AI Story Creation
-
-💻 Programming Content Creation
-
-🖼️ AI Image Generation
-
-📝 AI-assisted Content Creation
-
-🚀 Currently Working On
-
-📸 Photography Website
-
-A modern responsive photography website focused on presenting photography services and visual content.
-
-🔗 Live Project:
-https://photography-website-iota-eight.vercel.app/
-
-💪 AI Fitness Coach
-
-An AI-powered fitness platform with personalized diet/workout planning, progress tracking, and an admin panel.
-
-🔗 Live Project:
-https://fitness-app-five-iota.vercel.app/
-
-⭐ Featured Projects
+🚀 Current Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 📸 Photography Website
 
-Modern responsive photography website with a clean visual experience.
+A modern responsive photography website designed for a clean and visual presentation.
 
-Tech: HTML • CSS • JavaScript • Responsive Design
+Stack: HTML • CSS • JavaScript
 
-🔗 View Live Project
+<a href="https://photography-website-iota-eight.vercel.app/">🔗 Live Demo</a>
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 💪 AI Fitness Coach
 
-AI-powered fitness application with personalized plans, tracking, and administration features.
+An AI-powered fitness platform with personalized diet/workout planning, progress tracking and an admin panel.
 
-Tech: React • TypeScript • Tailwind CSS • MongoDB
+Stack: React • TypeScript • Tailwind • MongoDB
 
-🔗 View Live Project
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🏥 PrimeHealth Center
-
-Frontend medical care website with a professional healthcare-focused UI and PDF-related functionality.
-
-Tech: HTML • CSS • JavaScript
-
-🔗 View Project
-
-</td>
-
-<td width="50%">
-
-🌐 My Portfolio
-
-My personal portfolio containing my web development and creative work.
-
-Tech: HTML • CSS • JavaScript
-
-🔗 Visit Portfolio
+<a href="https://fitness-app-five-iota.vercel.app/">🔗 Live Demo</a>
 
 </td>
 </tr>
 </table>
 
+⭐ Featured Projects
+
+Project
+
+Description
+
+Link
+
+📸 Photography Website
+
+Responsive photography website with a modern visual UI
+
+Live Demo
+
+💪 AI Fitness Coach
+
+AI fitness platform with personalized plans, tracking and admin features
+
+Live Demo
+
+🏥 PrimeHealth Center
+
+Frontend medical care website with PDF-related functionality
+
+Live Demo
+
+🌐 Personal Portfolio
+
+My portfolio featuring web development and creative work
+
+Visit
+
 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrprogrammar17-create&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Kamran's GitHub Stats"/>
+<a href="https://github.com/mrprogrammar17-create">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mrprogrammar17-create&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=7dd3fc&text_color=c9d1d9" alt="Kamran's GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogrammar17-create&layout=compact&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages"/>
+<a href="https://github.com/mrprogrammar17-create">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprogrammar17-create&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -179,15 +142,15 @@ Tech: HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprogrammar17-create&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrprogrammar17-create&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
-📈 Contribution Activity
+📈 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrprogrammar17-create&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrprogrammar17-create&bg_color=0d1117&color=58a6ff&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -195,55 +158,49 @@ Tech: HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrprogrammar17-create&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mrprogrammar17-create&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 
 </div>
 
-📦 GitHub Overview
+💻 What I Build
 
-<div align="center">
+╭──────────────────────────────────────────────╮
+│              FRONTEND DEVELOPMENT             │
+├──────────────────────────────────────────────┤
+│  ▸ Responsive Websites                       │
+│  ▸ Modern UI / UX                             │
+│  ▸ React Applications                         │
+│  ▸ Tailwind CSS Interfaces                    │
+│  ▸ Landing Pages                              │
+│  ▸ Deployment & Optimization                 │
+╰──────────────────────────────────────────────╯
 
-<img src="https://img.shields.io/badge/Public%20Repositories-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+╭──────────────────────────────────────────────╮
+│               AI CONTENT CREATION             │
+├──────────────────────────────────────────────┤
+│  ▸ AI Image Prompts                           │
+│  ▸ AI Video Generation                        │
+│  ▸ AI Story Videos                            │
+│  ▸ Product Advertisements                     │
+│  ▸ Programming Content                        │
+│  ▸ AI Creative Workflows                      │
+╰──────────────────────────────────────────────╯
 
-<img src="https://img.shields.io/github/followers/mrprogrammar17-create?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
+🎯 Currently Learning
 
-</div>
-
-GitHub automatically tracks your repository count, contributions, commits, stars, followers, and other activity directly on your profile.
-
-💡 What I Can Help With
-
-Frontend Development
-├── Responsive Websites
-├── Landing Pages
-├── Modern UI Design
-├── React Applications
-├── Tailwind CSS
-└── Website Deployment
-
-AI Content Creation
-├── AI Image Prompts
-├── AI Video Generation
-├── AI Story Videos
-├── Product Advertisements
-├── Programming Content
-└── AI Creative Workflows
-
-📚 Currently Learning
-
-🤖 AI Content Creation
-
-🎬 Advanced AI Video Workflows
+🤖 Advanced AI Content Creation
 
 🧠 AI Prompt Engineering
 
-🌐 Modern Web Development
+🎬 Advanced AI Video Workflows
 
-🚀 Better Full-Stack Development
+🌐 Modern Full-Stack Development
 
-🤝 Collaboration
+🚀 Building better AI-powered applications
 
-I'm open to collaborating on:
+🤝 Open To Collaboration
+
+I'm interested in collaborating on:
 
 🌐 Web Development Projects
 
@@ -255,35 +212,36 @@ I'm open to collaborating on:
 
 💡 Creative Technology Projects
 
-If you have an interesting idea, feel free to reach out!
+Have an idea? Let's build it.
 
 📄 Resume
 
-📌 View my experience and resume:
-Open Resume
+📌 View My Resume
 
-📫 Connect With Me
+📫 Let's Connect
 
 <div align="center">
 
 <a href="mailto:kamranarshad0328@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 <a href="https://www.linkedin.com/in/kamran-khan-764421312/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kamran%20Arshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kamran%20Arshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://codealpha-my-own-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
 <div align="center">
 
-⚡ "Building websites. Creating with AI. Turning ideas into reality."
+⚡ BUILD • CREATE • INNOVATE
 
-⭐ If you like my work, consider giving my repositories a star!
+<sub>Frontend Development • Artificial Intelligence • Creative Content</sub>
+
+<br/><br/>
+
+⭐ Thanks for visiting my profile!
 
 </div>
