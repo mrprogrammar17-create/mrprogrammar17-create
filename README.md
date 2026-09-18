@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="./github-banner.svg" alt="Kamran Arshad - Frontend Developer and AI Creator" width="100%"/>
 
 <br/>
 
